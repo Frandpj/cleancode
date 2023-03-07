@@ -1,6 +1,6 @@
 import './style.css'
 // import './clean-code/06-classes-b'
-import "./code-smells/02-low-coupling";
+import "./solid/05-dependency-a";
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
